@@ -218,15 +218,17 @@ VS Code
 ```
 
 ---
+## 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my **skills, projects, technologies
+and development journey**.
+
 ### 🚀 Visit Portfolio
 
 <a href="https://portfolio-3g4t.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-00D084?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-## 🌐 Personal Portfolio
 
-My personal portfolio website showcasing my **skills, projects, technologies
-and development journey**.
 ----
 
 # 🚀 Featured Projects
