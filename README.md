@@ -218,6 +218,16 @@ VS Code
 ```
 
 ---
+### 🚀 Visit Portfolio
+
+<a href="https://portfolio-3g4t.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-00D084?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+## 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my **skills, projects, technologies
+and development journey**.
+----
 
 # 🚀 Featured Projects
 
@@ -291,32 +301,6 @@ communication, video calling, chat and Kundli matching.
 | Authentication | JWT, bcryptjs |
 | APIs | Gemini API, Vedic Astro API |
 
-### 🏗️ Architecture
-
-```text
-                    ┌─────────────────┐
-                    │    Frontend     │
-                    │ React + Redux   │
-                    │  Material UI    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    REST APIs    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     Backend     │
-                    │ Node + Express  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     MongoDB     │
-                    └─────────────────┘
-```
-
 ### 🔗 Repository
 
 <a href="https://github.com/ayushchandrawat/AstroMeet-Website">
@@ -325,48 +309,11 @@ communication, video calling, chat and Kundli matching.
 
 ---
 
-## 🌐 Personal Portfolio
-
-My personal portfolio website showcasing my **skills, projects, technologies
-and development journey**.
-
-### 🚀 Visit Portfolio
-
-<a href="https://portfolio-3g4t.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-00D084?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=ayushchandrawat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=FFFFFF"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchandrawat&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=FFFFFF"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ayushchandrawat&theme=dark&hide_border=true&background=0D1117&ring=00D084&fire=00D084&currStreakLabel=00D084"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchandrawat&bg_color=0D1117&color=00D084&line=00D084&point=BC13FE&area=true&hide_border=true" width="95%"/>
 
 </div>
 
